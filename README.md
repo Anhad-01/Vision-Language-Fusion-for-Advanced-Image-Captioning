@@ -2,6 +2,10 @@
 
 This application generates high-quality, descriptive captions for images using state-of-the-art vision-language models with advanced NLP post-processing.
 
+![image](https://github.com/user-attachments/assets/7009722c-67e9-4890-9a49-34bfd0169e4f)
+![image](https://github.com/user-attachments/assets/9d38093c-917e-486e-89d5-e5daea53c706)
+![image](https://github.com/user-attachments/assets/96c939a9-5324-458a-9458-0576ccca5566)
+
 ## Features
 
 - **Multiple Model Options**:
